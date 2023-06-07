@@ -1,0 +1,35 @@
+.wrong{
+    border: 2px solid red;
+}
+
+input {
+    outline: none;
+}
+
+.correct {
+    border: 2px solid green;
+}
+
+
+.info-text {
+    display: none;
+}
+
+.delete-icon {
+    width: 2rem;
+    height: 2rem;
+}
+
+.edit-icon {
+    width: 2rem;
+    height: 2rem;
+}
+
+li {
+    display: flex;
+    gap: 1rem;
+}
+
+.show {
+    display: block;
+}
